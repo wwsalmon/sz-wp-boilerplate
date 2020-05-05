@@ -26,8 +26,3 @@ wp_head();
         </div>
     </div>
 </div>
-<script>
-    document.getElementById('hamburger').addEventListener("click",function(){
-        document.querySelector('.menu-navbar-container').classList.toggle("open");
-    });
-</script>
